@@ -99,8 +99,4 @@ The final model was able to predict sales based on previous supply chain data wi
 ➤ Author
 
 Razal Rafeeque Kottat
----
 
-## ➤ Author
-
-Final Year Student Project
